@@ -1,0 +1,8 @@
+[workspace]
+members = [
+	"app",
+	"moveneter_sdk",
+	"server",
+	"shared",
+	"tester"
+]
